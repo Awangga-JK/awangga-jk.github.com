@@ -1,0 +1,118 @@
+.c_frame3-frame,
+.c_frame3-instance,
+.c_frame3-instance1 {
+  width: 100%;
+  max-width: 360px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.c_frame3-instance,
+.c_frame3-instance1 {
+  overflow: hidden;
+  background-color: #151515;
+}
+
+.c_frame3-instance1 {
+  background-color: #be8d26;
+}
+
+.c_frame3-rectangle {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 360px;
+  border-radius: 0 0 13px 13px;
+}
+
+.c_frame3-instance2 {
+  width: 100%;
+  overflow: hidden;
+  max-width: 360px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: #141414;
+}
+
+.c_frame3-rectangle1 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 360px;
+  border-radius: 0 0 30px 30px;
+}
+
+.c_frame3-text,
+.c_frame3-text1 {
+  margin-top: 0;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.c_frame3-text {
+  width: 100%;
+  max-width: auto;
+  min-height: auto;
+}
+
+.c_frame3-text1 {
+  color: #141414;
+  font-size: 24px;
+  font-style: normal;
+  font-family: "Montserrat",sans-serif;
+  font-weight: 600;
+  line-height: normal;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_frame3-instance3 {
+  width: 100%;
+  overflow: hidden;
+  max-width: 360px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: #141414;
+}
+
+.c_frame3-ellipse {
+  width: 100%;
+  filter: blur(500px);
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 360px;
+  border-radius: 100%;
+}
+
+.c_frame3-frame1 {
+  width: 100%;
+  max-width: 328px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.c_frame3-rectangle2,
+.c_frame3-rectangle3,
+.c_frame3-rectangle4,
+.c_frame3-rectangle5,
+.c_frame3-rectangle6,
+.c_frame3-rectangle7 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 328px;
+  box-shadow: 1px 1px 4px 0 rgba(0,0,0,.18),5px 5px 7px 0 rgba(0,0,0,.15),12px 11px 10px 0 rgba(0,0,0,.09),22px 19px 12px 0 rgba(0,0,0,.03);
+  border-radius: 24px 24px 24px 24px;
+}
